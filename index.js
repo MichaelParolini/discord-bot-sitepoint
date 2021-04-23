@@ -56,8 +56,7 @@ bot.on('message', msg => {
     //keys
     //Boss  
 
-
-  
+ 
   
   //Bullets
   //Gear
