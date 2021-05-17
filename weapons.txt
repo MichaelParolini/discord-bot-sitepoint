@@ -1,0 +1,23 @@
+//QUESTE SONO LE ARMI PER ESEMPIO
+//TUTTA QUESTA RAPPRESENTA 1 ARMA
+//tu puoi aggiungere qualsiasicosa qui sotto
+//quindi più completa la fai la lista, più cose puoi filtrare per le QUEST
+
+//le virgolette rappresentano testo
+
+//true è un boolean
+// 50 è integer e anche 2
+
+{
+    "id": "",
+    "type":"long",
+    "name": "AKM",
+    "rounds": "BS",
+    "suppressed": false,
+    "scopeName" :"Voodoo",
+    "mags": 2,
+    "extra rounds": 50,
+    "full-auto": true,
+    
+    
+},

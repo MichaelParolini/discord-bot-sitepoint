@@ -1,0 +1,7 @@
+ {
+        "id":"",        
+        "map": "woods",
+        "type": "long",
+        "challenge" : "madonaaaaa"
+
+    },
